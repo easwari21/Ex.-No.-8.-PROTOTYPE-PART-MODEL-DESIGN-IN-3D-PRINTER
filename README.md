@@ -47,8 +47,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![stopper](https://github.com/easwari21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/131534979/de6d4c14-6104-42bb-8f76-fd998d53c4c7)
+
+![stopper drawing](https://github.com/easwari21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/131534979/5b660a33-75bd-43f4-bb72-6e44885efe30)
+
+
+### Name: Easwari M
+### Register Number: 23006280
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.

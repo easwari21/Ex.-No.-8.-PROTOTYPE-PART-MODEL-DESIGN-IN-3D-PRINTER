@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot 2023-12-18 161221](https://github.com/easwari21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/131534979/db7bda36-ed0e-46e0-b917-1fe03b46481d)
+![Screenshot 2023-12-18 161631](https://github.com/easwari21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/131534979/ef422ce0-1bcf-4f7a-8096-6405e8d25726)
 
 
 ![Screenshot 2023-12-17 185740](https://github.com/easwari21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/131534979/b0c9d33f-c42e-4c77-951b-8675cf7893e0)

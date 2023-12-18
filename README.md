@@ -48,9 +48,7 @@
 ## Output:
 ![Screenshot 2023-12-18 161631](https://github.com/easwari21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/131534979/ef422ce0-1bcf-4f7a-8096-6405e8d25726)
 
-
-![Screenshot 2023-12-17 185740](https://github.com/easwari21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/131534979/b0c9d33f-c42e-4c77-951b-8675cf7893e0)
-
+![Screenshot 2023-12-18 161631](https://github.com/easwari21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/131534979/9c0e7246-56ae-46e7-b4c1-3176339d1843)
 
 
 ### Name: Easwari M
